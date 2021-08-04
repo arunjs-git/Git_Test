@@ -12,6 +12,9 @@ namespace Git_Test
             Console.WriteLine("Testing Git-4...");
             Console.WriteLine("Testing Git-5...");
             Console.Read();
+            Console.Read();
+            Console.Read();
+            Console.Read();
         }
     }
 }
