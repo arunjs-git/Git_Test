@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Git_Test
 {
@@ -10,7 +6,12 @@ namespace Git_Test
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Testing Git...");
+            Console.WriteLine("Testing Git-1...");
+            Console.WriteLine("Testing Git-2...");
+            Console.WriteLine("Testing Git-3...");
+            Console.WriteLine("Testing Git-4...");
+            Console.WriteLine("Testing Git-5...");
+            Console.Read();
         }
     }
 }
